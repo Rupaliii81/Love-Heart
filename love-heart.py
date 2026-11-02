@@ -272,5 +272,3 @@ try:
     t.done()
 except (t.Terminator, Exception):
     pass
-
-
